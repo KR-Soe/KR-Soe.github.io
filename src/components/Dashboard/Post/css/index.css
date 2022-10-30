@@ -1,0 +1,33 @@
+.post-card {
+    height: 100%;
+    padding: 4px 10px;
+}
+
+.post-content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.post-title {
+    font-family: 'Cabin';
+    font-weight: 800;
+    font-size: 20px;
+    padding: 6px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.post-body {
+    height: 100%;
+}
+
+
+.trash-can {
+    margin-right: 20px;
+}
+
+.trash-can:hover {
+    cursor: pointer;
+}
