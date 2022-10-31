@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcfa8025.css",
+    "main.js": "/static/js/main.0282b344.js",
+    "static/media/background.png": "/static/media/background.c37e8748e3f5714f770e.png",
+    "static/media/Cabin-500.woff2": "/static/media/Cabin-500.c46dd949cde4def142ab.woff2",
+    "static/media/Cabin.woff2": "/static/media/Cabin.5480a0c69ea2f00116b5.woff2",
+    "index.html": "/index.html",
+    "main.bcfa8025.css.map": "/static/css/main.bcfa8025.css.map",
+    "main.0282b344.js.map": "/static/js/main.0282b344.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcfa8025.css",
+    "static/js/main.0282b344.js"
+  ]
+}
